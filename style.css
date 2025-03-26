@@ -5,6 +5,10 @@
   
 }
 body{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    height:auto;
     background-color: black;
     color:white;
    
@@ -14,7 +18,7 @@ body{
     background-color:  hsl(0, 0%, 12%);
     border-radius: 1cap;    
     width:100%;
-    max-width:250px;
+    max-width:300px;
     height:auto;
     margin:9% auto;
     display: flex;
